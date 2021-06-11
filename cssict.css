@@ -1,0 +1,52 @@
+body{
+  background-image: url(assets/hu.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+  }
+  h1{ 
+color: black;
+text-align:center ;
+font-style: italic;
+
+  }
+  a{
+    font-size: 40px;
+    color:darkblue;
+    font-style: italic;
+  }
+  
+  font{
+    color: black;
+    font-style: oblique;
+  }
+.HeaderDiv{
+  background-color: rgba(130,130,130,0.5);
+  border-radius: 5px;
+
+}
+.logoimg{
+  margin-right: auto;
+  height: 1%;
+  width: 10%;
+}
+.List{
+  float: right;
+  margin-right: 1%;
+}
+.Links{
+  float: right;
+  padding-right: 50px;
+}
+.LinkLink{
+  text-decoration: none;
+  color: black;
+  font-size: 100%;
+  float: right;
+  list-style: none;
+  cursor: pointer;
+}
+.BodyDiv{
+  background-color: rgba(255,255,255,0.5);
+  border-radius: 5px;
+}
